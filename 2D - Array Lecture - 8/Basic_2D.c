@@ -3,6 +3,7 @@ int main(){
     // 1 2
     // 3 4
    // 2nd method of decleration
+    
 
     int arr[3][3] = {{1,2,3},{3,4,5},{4,5,6}};
 
